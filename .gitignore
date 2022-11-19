@@ -127,6 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+#pastas para não comitar
 data/
 docs/
