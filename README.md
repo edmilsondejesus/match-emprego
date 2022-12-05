@@ -33,7 +33,7 @@ e os dados dos currículos dos trabalhadores cadastrados no SINE não há um ín
 - Lattes
     - alternativa para enriquecimento dos dados
 
-** Vídeo da apresentação **
+**Vídeo da Apresentação**
 
 O vídeo da apresentação está disponível no Youtube e pode ser visualizado no link abaixo:
 
