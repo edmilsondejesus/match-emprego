@@ -33,6 +33,11 @@ e os dados dos currículos dos trabalhadores cadastrados no SINE não há um ín
 - Lattes
     - alternativa para enriquecimento dos dados
 
+** Vídeo da apresentação **
+
+O vídeo da apresentação está disponível no Youtube e pode ser visualizado no link abaixo:
+
+- [https://youtu.be/FCDOcKdTu7U] (https://youtu.be/FCDOcKdTu7U)
 ---
 
 ## Instructions for installation
@@ -50,7 +55,6 @@ e os dados dos currículos dos trabalhadores cadastrados no SINE não há um ín
 ```
     pip install -r requirements.txt
 ``` 
- 
 ---
 ## License
 This project is licensed under the terms of the MIT license.
